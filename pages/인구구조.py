@@ -1,6 +1,14 @@
+streamlit run your_app_name.py
+
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+
+# Plotly 예외 처리
+try:
+    import plotly.express as px
+except ModuleNotFoundError:
+    st.error("Plotly 라이브러리가 설치되지 않았습니다. 'pip install plotly'를 실행해주세요.")
+    st.stop()
 
 # 데이터 불러오기
 @st.cache_data
