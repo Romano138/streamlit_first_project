@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 # 데이터 불러오기
 @st.cache_data
@@ -36,13 +36,11 @@ def main():
         age_data = region_data.iloc[:, 4:].T
         age_data.columns = ['인구수']
         age_data.index = age_data.index.str.replace('2024년11월_계_', '').str.replace('세', '')
-        plt.figure(figsize=(10, 6))
-        plt.bar(age_data.index, age_data['인구수'])
-        plt.xticks(rotation=90)
-        plt.xlabel("연령대")
-        plt.ylabel("인구수")
-        plt.title(f"{selected_region} 연령별 인구수")
-        st.pyplot(plt)
+        age_data = age_data.reset_index().rename(columns={'index': '연령대'})
+
+        # Plotly 그래프 생성
+        fig = px.bar(age_data, x='연령대', y='인구수', title=f"{selected_region} 연령별 인구수")
+        st.plotly_chart(fig)
 
         # 최고/최저 비율 계산
         max_age, max_value, min_age, min_value = find_max_min_ratio(df, selected_region)
