@@ -54,8 +54,4 @@ def main():
         st.write(f"**최고 비율 연령대**: {max_age} ({max_value:.2f}%)")
         st.write(f"**최저 비율 연령대**: {min_age} ({min_value:.2f}%)")
 
-if __name__ == "__main__":
-    main()
-
-
 streamlit run your_app_name.py
