@@ -1,32 +1,37 @@
 import streamlit as st
 
-# MBTI에 따른 직업 추천과 잘 맞는 사람의 성향 데이터 mbti_info = {
-    "ISTJ": {"job": " 장마부, 건모가, 계획가",
-              "match": " 천천한 사람, 능력적이고 지력적인 사람"},
-    "ISFJ": {"job": "과학서 자무가, 건모가, 유\ce58원",
-              "match": " 노력하고 막간한 방식의 사람"},
-    "INFJ": {"job": " 치유고용가, 커·체재업가, 만화가",
-              "match": " 희망적이고 가치구원적인 사람"},
-    "INTJ": {"job": " 공학자, 디자인 만들기, 체질과수",
-              "match": " 도움을 받고 복원이 빠른 사람"},
-    "ISTP": {"job": "기술에 가지가 있는 업공가, 수류에사",
-              "match": " 건강하고 대상적이며 반심이 약하는 사람"},
-    "ISFP": {"job":  영화 만들기, 공장가, 예술가",
-              "match": " 결성적이고 진정한 사람"},
-    "INFP": {"job": " 만화가, 작가, 치료자",
-              "match": " 동아의 개별성을 중심으로 열심해는 사람"},
-    "INTP": {"job": " 연구자, 신화력 에사, 회계전문가",
-              "match": "천사를 말하며 예상 바가지의 인생과 조화"},
+# MBTI에 따른 직업 추천과 잘 맞는 사람의 성향 데이터
+mbti_info = {
+    "ISTJ": {"job": "장부관리자, 건축가, 계획가",
+             "match": "차분한 사람, 능력적이고 지적인 사람"},
+    "ISFJ": {"job": "과학자, 간호사, 유치원 교사",
+             "match": "노력하고 신중한 방식의 사람"},
+    "INFJ": {"job": "치료사, 컨설턴트, 만화가",
+             "match": "희망적이고 가치 지향적인 사람"},
+    "INTJ": {"job": "공학자, 디자이너, 전략기획자",
+             "match": "도움을 받고 복원이 빠른 사람"},
+    "ISTP": {"job": "기술 관련 전문가, 파일럿, 엔지니어",
+             "match": "건강하고 현실적이며 의지가 강한 사람"},
+    "ISFP": {"job": "영화 제작자, 조각가, 예술가",
+             "match": "감성적이고 진정한 사람"},
+    "INFP": {"job": "작가, 상담사, 치료사",
+             "match": "다른 사람의 개별성을 존중하며 열정적인 사람"},
+    "INTP": {"job": "연구원, 데이터 분석가, 회계 전문가",
+             "match": "논리적으로 말하며 균형 잡힌 사고를 하는 사람"},
 }
 
-# 스트림릿 제목 st.title("\U0001F4C2 MBTI 어느 직업과 이상이 작단할까? ")
+# 스트림릿 제목
+st.title("\U0001F4C2 MBTI에 따른 직업과 잘 맞는 성향 추천")
 
-# 드롭다운 메뉴 MBTI 선택 options = list(mbti_info.keys())
-selected_mbti = st.selectbox("\U0001F50D 만제의 MBTI를 선택해주세요!", options)
+# 드롭다운 메뉴 MBTI 선택
+options = list(mbti_info.keys())
+selected_mbti = st.selectbox("\U0001F50D 당신의 MBTI를 선택해주세요!", options)
 
-# 선택한 MBTI의 정보 표시 if selected_mbti:
-    st.subheader(f"\U0001F389 {selected_mbti} 만제의 반대")
-    st.write(f"\U0001F4BC **\uac1c본적 강점:** {mbti_info[selected_mbti]['job']}")
-    st.write(f"\U0001F91D **\uac00지가 잘 맞는 사람:** {mbti_info[selected_mbti]['match']}")
+# 선택한 MBTI의 정보 표시
+if selected_mbti:
+    st.subheader(f"\U0001F389 {selected_mbti} 유형 추천 직업 및 성향")
+    st.write(f"\U0001F4BC **추천 직업:** {mbti_info[selected_mbti]['job']}")
+    st.write(f"\U0001F91D **잘 맞는 사람 성향:** {mbti_info[selected_mbti]['match']}")
 
-# 앱 하단 메세지 st.info("\ud83d\ude80 MBTI 선택에 따라 고려할 직업을 위한 계획을 세워보세요!")
+# 앱 하단 메시지
+st.info("\U0001F680 MBTI 유형에 맞는 직업을 참고하여 나만의 계획을 세워보세요!")
