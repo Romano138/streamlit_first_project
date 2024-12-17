@@ -1,5 +1,3 @@
-streamlit run your_app_name.py
-
 import streamlit as st
 import pandas as pd
 
@@ -58,3 +56,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+streamlit run your_app_name.py
