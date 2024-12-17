@@ -1,0 +1,114 @@
+Atomic Number,Symbol,Name,Atomic Mass,Group,Period,State,Type,Density (g/cm3),Melting Point (K),Boiling Point (K),Electronegativity,Discovery Year
+1,H,Hydrogen,1.5,2,1,Solid,Metalloid,17.845,1933.85,3283.47,2.43,2019
+2,He,Helium,2.0,3,1,Solid,Metal,15.686,3085.36,5476.370000000001,1.11,2004
+3,Li,Lithium,2.5,4,1,Solid,Metal,16.432,2153.99,4666.99,2.48,1871
+4,Be,Beryllium,3.0,5,1,Solid,Noble Gas,11.011,1668.42,4368.0,2.25,1720
+5,B,Boron,3.5,6,1,Solid,Nonmetal,13.211,3887.4,5404.48,0.98,1831
+6,C,Carbon,4.0,7,1,Solid,Metalloid,4.363,1138.51,2021.4099999999999,3.82,1726
+7,N,Nitrogen,4.5,8,1,Solid,Nonmetal,10.888,3368.29,4268.34,2.1,1908
+8,O,Oxygen,5.0,9,1,Solid,Nonmetal,8.758,1851.87,3566.3199999999997,3.29,1739
+9,F,Fluorine,5.5,10,1,Gas,Metal,11.318,3606.29,3774.72,1.33,1847
+10,Ne,Neon,6.0,11,1,Solid,Metalloid,4.955,345.06,2392.81,2.73,1709
+11,Na,Sodium,6.5,12,1,Liquid,Metal,14.462,601.58,1760.5300000000002,2.85,1853
+12,Mg,Magnesium,7.0,13,1,Gas,Metal,9.531,1466.04,1541.52,2.25,1762
+13,Al,Aluminum,7.5,14,1,Solid,Nonmetal,16.177,1702.12,2848.77,1.44,1751
+14,Si,Silicon,8.0,15,1,Solid,Metalloid,18.654,2069.96,3058.82,1.77,1894
+15,P,Phosphorus,8.5,16,1,Solid,Metal,2.53,2942.17,5827.47,3.73,1874
+16,S,Sulfur,9.0,17,1,Solid,Nonmetal,13.221,682.55,769.5799999999999,3.01,1755
+17,Cl,Chlorine,9.5,18,1,Solid,Metal,9.609,274.33,871.96,2.39,1805
+18,Ar,Argon,10.0,1,1,Solid,Metalloid,5.188,3651.35,5108.66,2.16,1895
+19,K,Potassium,10.5,2,2,Solid,Noble Gas,10.375,2419.18,4125.639999999999,3.08,1832
+20,Ca,Calcium,11.0,3,2,Solid,Metalloid,3.213,967.9,2315.91,1.1,1870
+21,Sc,Scandium,11.5,4,2,Liquid,Noble Gas,6.136,2433.13,5169.87,1.77,1933
+22,Ti,Titanium,12.0,5,2,Gas,Nonmetal,16.7,642.0,2072.23,3.67,1818
+23,V,Vanadium,12.5,6,2,Solid,Metal,3.806,3712.5,4918.1,3.12,1913
+24,Cr,Chromium,13.0,7,2,Solid,Noble Gas,17.549,1056.51,3749.84,3.74,1760
+25,Mn,Manganese,13.5,8,2,Solid,Nonmetal,16.191,2560.35,5454.23,2.91,1834
+26,Fe,Iron,14.0,9,2,Solid,Nonmetal,12.885,719.88,1678.17,2.72,1838
+27,Co,Cobalt,14.5,10,2,Solid,Metal,8.753,2824.67,5532.16,2.04,1712
+28,Ni,Nickel,15.0,11,2,Solid,Metalloid,9.698,2965.29,4344.78,3.41,1916
+29,Cu,Copper,15.5,12,2,Liquid,Noble Gas,4.035,2429.92,2632.23,1.26,1771
+30,Zn,Zinc,16.0,13,2,Liquid,Metal,14.431,2938.32,4973.1,2.51,1954
+31,Ga,Gallium,16.5,14,2,Gas,Noble Gas,3.275,3689.14,5915.62,3.0,1807
+32,Ge,Germanium,17.0,15,2,Solid,Metal,10.11,3366.04,5897.1,3.66,1773
+33,As,Arsenic,17.5,16,2,Solid,Nonmetal,10.466,3022.14,4236.88,2.92,1997
+34,Se,Selenium,18.0,17,2,Solid,Metal,16.726,355.31,2705.62,3.04,1773
+35,Br,Bromine,18.5,18,2,Gas,Metal,2.408,3969.8,5077.49,1.55,1705
+36,Kr,Krypton,19.0,1,2,Solid,Metalloid,18.676,114.9,2624.77,2.0,1994
+37,Rb,Rubidium,19.5,2,3,Solid,Noble Gas,14.617,1511.88,3257.36,2.53,1803
+38,Sr,Strontium,20.0,3,3,Gas,Noble Gas,4.23,2734.63,3862.51,0.73,1866
+39,Y,Yttrium,20.5,4,3,Solid,Nonmetal,10.207,3325.89,6279.17,0.9,1831
+40,Zr,Zirconium,21.0,5,3,Solid,Metalloid,5.338,2433.69,4716.9,0.97,1945
+41,Nb,Niobium,21.5,6,3,Solid,Noble Gas,7.322,1326.73,1546.67,2.32,1710
+42,Mo,Molybdenum,22.0,7,3,Solid,Noble Gas,18.314,2591.64,3919.21,1.54,1911
+43,Tc,Technetium,22.5,8,3,Gas,Nonmetal,5.746,2062.26,4223.41,3.4,1787
+44,Ru,Ruthenium,23.0,9,3,Solid,Metalloid,7.599,3880.56,5420.1900000000005,1.68,1772
+45,Rh,Rhodium,23.5,10,3,Solid,Noble Gas,14.208,1436.4,2772.1400000000003,1.18,1984
+46,Pd,Palladium,24.0,11,3,Gas,Metalloid,13.109,810.09,1104.0700000000002,1.76,1849
+47,Ag,Silver,24.5,12,3,Solid,Noble Gas,17.198,2788.98,5748.34,3.25,1780
+48,Cd,Cadmium,25.0,13,3,Solid,Noble Gas,10.126,3179.16,3350.66,1.98,1818
+49,In,Indium,25.5,14,3,Solid,Noble Gas,6.867,3482.78,5735.59,2.0,1861
+50,Sn,Tin,26.0,15,3,Solid,Noble Gas,16.133,1560.96,4093.67,1.54,1726
+51,Sb,Antimony,26.5,16,3,Solid,Nonmetal,8.188,3255.05,4642.49,3.46,1894
+52,Te,Tellurium,27.0,17,3,Solid,Noble Gas,15.66,675.69,1373.99,1.69,1993
+53,I,Iodine,27.5,18,3,Solid,Metal,16.801,2538.05,4988.71,2.89,1956
+54,Xe,Xenon,28.0,1,3,Gas,Metal,17.377,382.44,2173.84,1.94,1983
+55,Cs,Cesium,28.5,2,4,Solid,Nonmetal,3.792,437.92,2211.02,1.61,1800
+56,Ba,Barium,29.0,3,4,Solid,Metal,8.332,447.52,2433.89,3.34,1720
+57,La,Lanthanum,29.5,4,4,Solid,Noble Gas,12.691,1630.47,3386.31,1.91,1730
+58,Ce,Cerium,30.0,5,4,Solid,Nonmetal,1.741,2794.23,4132.24,2.09,1943
+59,Pr,Praseodymium,30.5,6,4,Solid,Metalloid,15.591,3201.08,5331.34,1.3,1889
+60,Nd,Neodymium,31.0,7,4,Solid,Noble Gas,8.102,149.07,270.33,0.75,1748
+61,Pm,Promethium,31.5,8,4,Solid,Metalloid,5.115,3187.67,4654.04,3.09,1916
+62,Sm,Samarium,32.0,9,4,Solid,Metalloid,19.807,2276.53,3820.8500000000004,3.89,1954
+63,Eu,Europium,32.5,10,4,Solid,Metal,16.418,3770.46,6185.49,2.73,1787
+64,Gd,Gadolinium,33.0,11,4,Solid,Nonmetal,7.334,1634.48,4267.92,2.19,1782
+65,Tb,Terbium,33.5,12,4,Solid,Metal,10.44,1201.0,1822.75,1.11,1907
+66,Dy,Dysprosium,34.0,13,4,Solid,Nonmetal,0.575,1689.29,1983.77,3.31,2014
+67,Ho,Holmium,34.5,14,4,Solid,Metalloid,2.285,2394.46,4570.27,2.6,1919
+68,Er,Erbium,35.0,15,4,Solid,Metalloid,7.988,3667.28,5606.81,1.82,1948
+69,Tm,Thulium,35.5,16,4,Solid,Metalloid,18.358,3440.44,4616.8,2.85,1961
+70,Yb,Ytterbium,36.0,17,4,Solid,Metal,4.85,2226.63,3979.9700000000003,3.15,1849
+71,Lu,Lutetium,36.5,18,4,Solid,Metalloid,16.312,3638.82,6503.16,2.59,2007
+72,Hf,Hafnium,37.0,1,4,Solid,Noble Gas,5.91,2604.39,3670.31,2.63,2011
+73,Ta,Tantalum,37.5,2,5,Solid,Metalloid,6.708,3750.76,5580.07,1.98,1736
+74,W,Tungsten,38.0,3,5,Solid,Metal,2.528,1220.75,2677.2,1.86,1763
+75,Re,Rhenium,38.5,4,5,Gas,Noble Gas,5.445,3489.9,3947.38,2.07,1750
+76,Os,Osmium,39.0,5,5,Solid,Nonmetal,12.711,368.67,1348.1100000000001,3.28,1837
+77,Ir,Iridium,39.5,6,5,Solid,Noble Gas,7.973,2788.71,4460.91,3.3,1893
+78,Pt,Platinum,40.0,7,5,Solid,Noble Gas,7.297,2563.09,3819.84,2.56,1727
+79,Au,Gold,40.5,8,5,Solid,Metalloid,0.955,2217.14,2936.58,3.7,1910
+80,Hg,Mercury,41.0,9,5,Gas,Noble Gas,5.07,1183.34,3216.89,0.99,1853
+81,Tl,Thallium,41.5,10,5,Solid,Noble Gas,9.75,2411.23,5192.73,3.89,1872
+82,Pb,Lead,42.0,11,5,Solid,Nonmetal,12.847,2917.72,3343.95,3.87,1913
+83,Bi,Bismuth,42.5,12,5,Gas,Metalloid,15.401,2862.17,3861.06,1.85,1960
+84,Po,Polonium,43.0,13,5,Solid,Noble Gas,3.962,3023.71,3836.35,2.41,1822
+85,At,Astatine,43.5,14,5,Solid,Metal,14.57,1840.89,4379.36,3.95,2016
+86,Rn,Radon,44.0,15,5,Solid,Metal,10.222,2752.9,4138.360000000001,1.9,1793
+87,Fr,Francium,44.5,16,5,Solid,Nonmetal,1.261,636.62,2286.01,1.34,1706
+88,Ra,Radium,45.0,17,5,Solid,Metal,9.865,1163.14,2456.82,3.46,1766
+89,Ac,Actinium,45.5,18,5,Solid,Nonmetal,19.267,265.74,1001.52,1.08,1851
+90,Th,Thorium,46.0,1,5,Solid,Noble Gas,18.345,1883.72,2321.88,2.94,1910
+91,Pa,Protactinium,46.5,2,6,Solid,Metal,19.4,3689.05,5354.54,3.53,2019
+92,U,Uranium,47.0,3,6,Gas,Noble Gas,7.492,1619.1,2789.92,2.85,1903
+93,Np,Neptunium,47.5,4,6,Solid,Metal,7.624,3836.75,5565.5,1.15,1813
+94,Pu,Plutonium,48.0,5,6,Solid,Nonmetal,10.578,3045.64,4210.85,2.82,2008
+95,Am,Americium,48.5,6,6,Solid,Noble Gas,19.886,769.2,1135.52,3.84,1792
+96,Cm,Curium,49.0,7,6,Solid,Metalloid,19.951,2692.62,4579.44,1.22,1782
+97,Bk,Berkelium,49.5,8,6,Solid,Noble Gas,15.637,2079.61,3949.62,2.55,2016
+98,Cf,Californium,50.0,9,6,Solid,Metalloid,16.759,3636.41,3808.46,1.71,1998
+99,Es,Einsteinium,50.5,10,6,Solid,Metalloid,18.402,2435.25,4078.4,3.15,1829
+100,Fm,Fermium,51.0,11,6,Solid,Metal,13.66,2261.07,2980.38,1.89,1747
+101,Md,Mendelevium,51.5,12,6,Solid,Metal,3.876,3408.61,5194.83,3.3,1722
+102,No,Nobelium,52.0,13,6,Solid,Nonmetal,0.834,2352.09,4470.370000000001,2.95,1870
+103,Lr,Lawrencium,52.5,14,6,Solid,Noble Gas,14.218,368.63,875.66,1.01,1788
+104,Rf,Rutherfordium,53.0,15,6,Solid,Metal,11.022,714.14,2546.48,3.26,1974
+105,Db,Dubnium,53.5,16,6,Solid,Metalloid,7.421,3691.32,3987.1600000000003,3.84,1969
+106,Sg,Seaborgium,54.0,17,6,Solid,Noble Gas,18.184,236.86,572.87,1.27,1894
+107,Bh,Bohrium,54.5,18,6,Solid,Metal,17.643,1985.67,3137.32,2.39,2004
+108,Hs,Hassium,55.0,1,6,Solid,Noble Gas,16.111,457.54,915.4000000000001,2.27,1927
+109,Mt,Meitnerium,55.5,2,7,Solid,Noble Gas,3.331,1915.52,4896.58,3.65,1824
+110,Ds,Darmstadtium,56.0,3,7,Solid,Metal,5.623,2630.65,3773.28,1.17,1734
+111,Rg,Roentgenium,56.5,4,7,Solid,Metalloid,11.452,58.49,283.82,3.3,1750
+112,Cn,Copernicium,57.0,5,7,Solid,Nonmetal,1.644,740.24,1423.02,1.07,2017
+113,Nh,Nihonium,57.5,6,7,Solid,Noble Gas,15.516,1603.54,1783.24,1.34,1890
